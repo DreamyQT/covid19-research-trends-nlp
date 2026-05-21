@@ -59,6 +59,15 @@ This project analyzes 50,000+ academic articles from the [CORD-19 dataset](https
 ### Word Cloud
 ![WordCloud](images/WordCloud.png)
 
+### Research Theme Evolution (Stratified Sampling)
+![Research Theme Evolution Stratified Sampling](images/Research_Theme_Evolution_(2020-2025)_Stratified_Sampling.png)
+
+### Research Theme Evolution (Max 500 Papers Per Quarter)
+![Research Theme Evolution Max 500 Papers Per Quarter](images/Research_Theme_Evolution_(2020-2023_Quarterly)_Max_500_Papers_Per_Quarter.png)
+
+### Research Theme Evolution (500 Papers Per Quarter)
+![Research Theme Evolution 500 Papers Per Quarter](images/Research_Theme_Evolution_(2020-2025)_500_Papers_Per_Quarter.png)
+
 ## Dataset
 
 [CORD-19 Research Challenge — Kaggle](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge/data?select=metadata.csv)
