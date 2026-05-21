@@ -1,6 +1,6 @@
 # COVID-19 Research Trends Analysis
 
-![Research Topic Evolution](Evolution_Of_Covid-19_Research_Themes_(2020Q1-2022Q4).png)
+![Research Topic Evolution](images/Evolution_Of_Covid-19_Research_Themes_(2020Q1-2022Q4).png)
 
 A temporal analysis of COVID-19 research themes using LDA topic modeling and NLP, tracking how scientific focus shifted throughout the pandemic from 2020 to 2022.
 
@@ -42,22 +42,22 @@ This project analyzes 50,000+ academic articles from the [CORD-19 dataset](https
 ## Visualizations
 
 ### Evolution of Research Topics Over Time
-![Evolution Of Research Topics Over Time](Evolution_Of_Research_Topics_Over_Time_(2020-2025).png)
+![Evolution Of Research Topics Over Time](images/Evolution_Of_Research_Topics_Over_Time_(2020-2025).png)
 
 ### Topic Prevalence Over Time
-![Topic Prevalence Over Time](Topic_Prevalence_Over_time_(%).png)
+![Topic Prevalence Over Time](images/Topic_Prevalence_Over_time_(%).png)
 
 ### Topic Distribution Over Time
-![Topic Distribution Over Time](Topic_Distribution_Over_Time_(2020-2025).png)
+![Topic Distribution Over Time](images/Topic_Distribution_Over_Time_(2020-2025).png)
 
 ### Prevalence of COVID Variant Terms
-![Prevalence Of COVID Variant Terms](Prevalence_Of_COVID_Variant_Terms_In_Research_Themes.png)
+![Prevalence Of COVID Variant Terms](images/Prevalence_Of_COVID_Variant_Terms_In_Research_Themes.png)
 
 ### Evolution of COVID-19 Research Themes
-![Evolution Of Covid-19 Research Themes](Evolution_Of_Covid-19_Research_Themes_(2020Q1-2022Q4).png)
+![Evolution Of Covid-19 Research Themes](images/Evolution_Of_Covid-19_Research_Themes_(2020Q1-2022Q4).png)
 
 ### Word Cloud
-![WordCloud](WordCloud.png)
+![WordCloud](images/WordCloud.png)
 
 ## Dataset
 
