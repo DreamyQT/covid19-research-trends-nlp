@@ -1,5 +1,7 @@
 # COVID-19 Research Trends Analysis
 
+![Research Topic Evolution](Evolution_Of_Covid-19_Research_Themes_(2020Q1-2022Q4).png)
+
 A temporal analysis of COVID-19 research themes using LDA topic modeling and NLP, tracking how scientific focus shifted throughout the pandemic from 2020 to 2022.
 
 ## Overview
