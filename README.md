@@ -45,7 +45,7 @@ This project analyzes 50,000+ academic articles from the [CORD-19 dataset](https
 ![Evolution Of Research Topics Over Time](images/Evolution_Of_Research_Topics_Over_Time_(2020-2025).png)
 
 ### Topic Prevalence Over Time
-![Topic Prevalence Over Time](images/Topic_Prevalence_Over_time_(%).png)
+![Topic Prevalence Over Time](images/Topic_Prevalence_Over_time.png)
 
 ### Topic Distribution Over Time
 ![Topic Distribution Over Time](images/Topic_Distribution_Over_Time_(2020-2025).png)
